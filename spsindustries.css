@@ -1,0 +1,34 @@
+#spsind_body{
+    height: 100%;
+    width: 100%
+}
+
+
+#spsind_header{
+    border: 1px solid blue;
+    height: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-image: url("spsheaderimg.jpg");
+    
+}
+#spsind_footer{
+    background-color: black;
+    bottom: 0px;
+    position: fixed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100%;
+    min-height: 20px;
+    color: white;
+    text-align: center;
+}
+
+#spsind_header_text1{
+    font-size: 1.5em;
+    color: white;
+}
+
+#spsind_header_text2{
+    font-size: 0.75em;
+    color: white;
+}
